@@ -1,0 +1,113 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = eUcionica
+build_property.RootNamespace = eUcionica
+build_property.ProjectDir = D:\Softverski_inzenjering_pravi\Ceo_projekat\eUcionica\eUcionica\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Softverski_inzenjering_pravi\Ceo_projekat\eUcionica\eUcionica
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Softverski_inzenjering_pravi/Ceo_projekat/eUcionica/eUcionica/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Softverski_inzenjering_pravi/Ceo_projekat/eUcionica/eUcionica/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Softverski_inzenjering_pravi/Ceo_projekat/eUcionica/eUcionica/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Softverski_inzenjering_pravi/Ceo_projekat/eUcionica/eUcionica/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Softverski_inzenjering_pravi/Ceo_projekat/eUcionica/eUcionica/Pages/StranicaOblasti/BrisanjeOblasti.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RyYW5pY2FPYmxhc3RpXEJyaXNhbmplT2JsYXN0aS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Softverski_inzenjering_pravi/Ceo_projekat/eUcionica/eUcionica/Pages/StranicaOblasti/DetaljiOblasti.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RyYW5pY2FPYmxhc3RpXERldGFsamlPYmxhc3RpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Softverski_inzenjering_pravi/Ceo_projekat/eUcionica/eUcionica/Pages/StranicaOblasti/DodavanjeOblasti.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RyYW5pY2FPYmxhc3RpXERvZGF2YW5qZU9ibGFzdGkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Softverski_inzenjering_pravi/Ceo_projekat/eUcionica/eUcionica/Pages/StranicaOblasti/MenjanjeOblasti.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RyYW5pY2FPYmxhc3RpXE1lbmphbmplT2JsYXN0aS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Softverski_inzenjering_pravi/Ceo_projekat/eUcionica/eUcionica/Pages/StranicaOblasti/SpisakOblasti.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RyYW5pY2FPYmxhc3RpXFNwaXNha09ibGFzdGkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Softverski_inzenjering_pravi/Ceo_projekat/eUcionica/eUcionica/Pages/StranicaPitanja/BrisanjePitanja.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RyYW5pY2FQaXRhbmphXEJyaXNhbmplUGl0YW5qYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Softverski_inzenjering_pravi/Ceo_projekat/eUcionica/eUcionica/Pages/StranicaPitanja/DetaljiPitanja.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RyYW5pY2FQaXRhbmphXERldGFsamlQaXRhbmphLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Softverski_inzenjering_pravi/Ceo_projekat/eUcionica/eUcionica/Pages/StranicaPitanja/KreiranjePitanja.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RyYW5pY2FQaXRhbmphXEtyZWlyYW5qZVBpdGFuamEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Softverski_inzenjering_pravi/Ceo_projekat/eUcionica/eUcionica/Pages/StranicaPitanja/MenjanjePitanja.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RyYW5pY2FQaXRhbmphXE1lbmphbmplUGl0YW5qYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Softverski_inzenjering_pravi/Ceo_projekat/eUcionica/eUcionica/Pages/StranicaPitanja/SpisakPitanja.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RyYW5pY2FQaXRhbmphXFNwaXNha1BpdGFuamEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Softverski_inzenjering_pravi/Ceo_projekat/eUcionica/eUcionica/Pages/StranicaPredmeti/BrisanjePredmeta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RyYW5pY2FQcmVkbWV0aVxCcmlzYW5qZVByZWRtZXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Softverski_inzenjering_pravi/Ceo_projekat/eUcionica/eUcionica/Pages/StranicaPredmeti/DetaljiPredmeta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RyYW5pY2FQcmVkbWV0aVxEZXRhbGppUHJlZG1ldGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Softverski_inzenjering_pravi/Ceo_projekat/eUcionica/eUcionica/Pages/StranicaPredmeti/DodavanjePredmeta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RyYW5pY2FQcmVkbWV0aVxEb2RhdmFuamVQcmVkbWV0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Softverski_inzenjering_pravi/Ceo_projekat/eUcionica/eUcionica/Pages/StranicaPredmeti/MenjanjePredmeta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RyYW5pY2FQcmVkbWV0aVxNZW5qYW5qZVByZWRtZXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Softverski_inzenjering_pravi/Ceo_projekat/eUcionica/eUcionica/Pages/StranicaPredmeti/SpisakPredmeta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RyYW5pY2FQcmVkbWV0aVxTcGlzYWtQcmVkbWV0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Softverski_inzenjering_pravi/Ceo_projekat/eUcionica/eUcionica/Pages/StranicaTestovi/FormiranTestZnanja.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RyYW5pY2FUZXN0b3ZpXEZvcm1pcmFuVGVzdFpuYW5qYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Softverski_inzenjering_pravi/Ceo_projekat/eUcionica/eUcionica/Pages/StranicaTestovi/GenerisanjeNovogTesta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RyYW5pY2FUZXN0b3ZpXEdlbmVyaXNhbmplTm92b2dUZXN0YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Softverski_inzenjering_pravi/Ceo_projekat/eUcionica/eUcionica/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Softverski_inzenjering_pravi/Ceo_projekat/eUcionica/eUcionica/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Softverski_inzenjering_pravi/Ceo_projekat/eUcionica/eUcionica/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-v6zfz9zx1l

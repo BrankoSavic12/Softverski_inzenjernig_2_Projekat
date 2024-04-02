@@ -1,0 +1,51 @@
+﻿@page
+@model eUcionica.Pages.StranicaOblasti.SpisakOblastiModel
+
+@{
+    ViewData["Title"] = "Spisak oblasti";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h2>Spisak svih oblasti</h2>
+
+<div class="mb-3 d-flex justify-content-between">
+    <form method="post" class="form-inline">
+        <div class="input-group">
+            <input type="text" class="form-control" asp-for="SearchText" placeholder="Pretraga...">
+            <div class="input-group-append">
+                <button type="submit" class="btn btn-primary ml-1">Pretraži</button>
+            </div>
+        </div>
+    </form>
+    <div class="btn-group ml-1" style="padding-right:850px">
+        <a asp-page="DodavanjeOblasti" class="btn btn-primary">Dodavanje oblasti</a>
+    </div>
+</div>
+
+<table class="table table-striped" style="width:900px">
+    <thead>
+        <tr>
+            <th>Oblast predmeta</th>
+            <th>Predmet</th>
+            <th>Akcije</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Oblast)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                <td>@(item.Predmet != null ? item.Predmet.NazivPredmeta : "N/A")</td>
+                <td>
+                    <div class="btn-group">
+                        <a asp-page="./MenjanjeOblasti" asp-route-id="@item.ID" class="btn btn-info">Izmeni</a>
+                        <span style="padding: 0 5px;"></span>
+                        <a asp-page="./DetaljiOblasti" asp-route-id="@item.ID" class="btn btn-info">Detalji</a>
+                        <span style="padding: 0 5px;"></span>
+                        <a asp-page="./BrisanjeOblasti" asp-route-id="@item.ID" class="btn btn-danger">Obriši</a>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

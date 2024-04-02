@@ -1,0 +1,39 @@
+﻿@page
+@model eUcionica.Pages.StranicaPredmet.DetaljiPredmetaModel 
+
+@{
+    ViewData["Title"] = "Detalji o predmetu";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    @if (Model.Predmet != null)
+    {
+        <div class="card border-info" style="max-width: 800px; margin: 0 auto;">
+            <h3 class="card-header bg-info text-white">
+                Naziv predmeta: @Model.Predmet.NazivPredmeta <a href="@Url.Page("SpisakPredmeta")" class="text-white">&#8592;</a>
+            </h3>
+
+            <div class="card-body">
+                <h4 class="card-title">Oblasti koje pripadaju predmetu:</h4>
+                <ul class="list-group">
+                    @if (Model.Oblasti != null)
+                    {
+                        @foreach (var oblast in Model.Oblasti)
+                        {
+                            <li class="list-group-item">&#8226; @(oblast?.Name ?? "N/A")</li>
+                        }
+                    }
+                    else
+                    {
+                        <li class="list-group-item">Nema dostupnih oblasti.</li>
+                    }
+                </ul>
+            </div>
+        </div>
+    }
+    else
+    {
+        <p>Podaci o predmetu nisu dostupni.</p>
+    }
+</div>

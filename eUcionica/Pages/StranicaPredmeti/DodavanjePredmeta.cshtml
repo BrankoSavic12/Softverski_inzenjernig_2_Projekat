@@ -1,0 +1,36 @@
+﻿@page
+@model eUcionica.Pages.SpisakPredmeta.DodavanjePredmetaModel 
+
+@{
+    ViewData["Title"] = "Kreiranje predmeta";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center mt-3">
+        <div class="col-md-6">
+            <div class="card p-4 border-primary" style="background-color: #f8f9fa;">
+                <h4 class="mb-4">Dodavanje predmeta</h4>
+                <hr class="mb-4">
+                <form method="post">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group mb-3">
+                        <label asp-for="Predmet.NazivPredmeta" class="control-label">Naziv predmeta</label>
+                        <input asp-for="Predmet.NazivPredmeta" class="form-control" />
+                        <span asp-validation-for="Predmet.NazivPredmeta" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-primary mr-2">Dodaj predmet</button>
+                        <a asp-page="SpisakPredmeta" class="btn btn-secondary d-inline-block">Odustani</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,35 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card mt-4">
+                <div class="card-body">
+                    <h2 class="card-title text-center mb-4">Dobrodošli na elektronsku učionicu</h2>
+                    <div class="text-center">
+                        <div class="mb-4">
+                            <h6 class="d-inline mr-2">Pregledaj predmete :</h6>
+                            <a href="/StranicaPredmeti/SpisakPredmeta" class="btn btn-outline-primary" style="width:170px"><h6>Link ka predmetima</h6></a>
+                        </div>
+                        <div class="mb-4">
+                            <h6 class="d-inline mr-2">Pogledaj lista pitanja:</h6>
+                            <a href="/StranicaPitanja/SpisakPitanja" class="btn btn-outline-primary" style="width:170px"><h6>Link ka pitanjima</h6></a>
+                        </div>
+                        <div class="mb-4">
+                            <h6 class="d-inline mr-2">Pogledaj listu oblasti:</h6>
+                            <a href="/StranicaOblasti/SpisakOblasti" class="btn btn-outline-primary" style="width:170px"><h6>Link ka oblastima</h6></a>
+                        </div>
+                        <div class="mb-4">
+                            <h6 class="d-inline mr-2">Kreiranje novog testa:</h6>
+                            <a href="/StranicaTestovi/GenerisanjeNovogTesta" class="btn btn-outline-primary" style="width:170px"><h6>Link ka testovima</h6></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

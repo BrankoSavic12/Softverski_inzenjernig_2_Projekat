@@ -1,0 +1,34 @@
+﻿@page
+@model eUcionica.Pages.StranicaOblasti.BrisanjeOblastiModel
+
+@{
+    ViewData["Title"] = "Brisanje oblasti";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<div class="container border rounded p-3" style="background-color: #f2f2f2; width: 700px;">
+    <h3>Brisanje oblasti</h3>
+
+    <form method="post">
+        <h4>Da li ste sigurni da želite ukloniti ovu oblast?</h4>
+        <div class="form-group">
+            @if (Model.Oblast != null && Model.Oblast.Predmet != null)
+            {
+                <label class="control-label">Naziv predmeta</label>
+                <input class="form-control" value="@Model.Oblast.Predmet.NazivPredmeta" readonly />
+            }
+        </div>
+        <div class="form-group">
+            @if (Model.Oblast != null)
+            {
+                <label class="control-label">Naziv oblasti</label>
+                <input class="form-control" value="@Model.Oblast.Name" readonly />
+            }
+        </div>
+
+        <div class="form-group mt-3" style="display: flex; align-items: center;">
+            <input type="submit" value="Ukloni" class="btn btn-danger" style="margin-right: 10px;">
+            <a asp-page="./SpisakOblasti" class="btn btn-secondary">Nazad</a>
+        </div>
+    </form>
+</div>

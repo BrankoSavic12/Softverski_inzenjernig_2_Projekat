@@ -1,0 +1,1089 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\eUcionica.bundle.scp.css",
+      "PackagePath": "staticwebassets\\eUcionica.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\ALgebraS1.JPG",
+      "PackagePath": "staticwebassets\\Images\\ALgebraS1.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\ALgebraS6.JPG",
+      "PackagePath": "staticwebassets\\Images\\ALgebraS6.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\ALgebraS8.JPG",
+      "PackagePath": "staticwebassets\\Images\\ALgebraS8.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\ALgebraSO4.JPG",
+      "PackagePath": "staticwebassets\\Images\\ALgebraSO4.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\ALgebraSO5.JPG",
+      "PackagePath": "staticwebassets\\Images\\ALgebraSO5.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\ALgebraT5.JPG",
+      "PackagePath": "staticwebassets\\Images\\ALgebraT5.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\ALgebraTO3.JPG",
+      "PackagePath": "staticwebassets\\Images\\ALgebraTO3.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\Algebra1.JPG",
+      "PackagePath": "staticwebassets\\Images\\Algebra1.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\Algebra2.JPG",
+      "PackagePath": "staticwebassets\\Images\\Algebra2.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\Algebra3.JPG",
+      "PackagePath": "staticwebassets\\Images\\Algebra3.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\Algebra4.JPG",
+      "PackagePath": "staticwebassets\\Images\\Algebra4.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\Algebra5.JPG",
+      "PackagePath": "staticwebassets\\Images\\Algebra5.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\Algebra6.JPG",
+      "PackagePath": "staticwebassets\\Images\\Algebra6.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\Algebra7.JPG",
+      "PackagePath": "staticwebassets\\Images\\Algebra7.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\Algebra8.JPG",
+      "PackagePath": "staticwebassets\\Images\\Algebra8.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraO1.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraO1.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraO2.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraO2.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraO3.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraO3.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraO4.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraO4.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraO5.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraO5.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraO6.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraO6.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraO7.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraO7.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraO8.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraO8.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraS2.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraS2.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraS3.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraS3.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraS4.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraS4.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraS5.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraS5.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraS7.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraS7.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraSO1.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraSO1.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraSO2.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraSO2.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraSO3.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraSO3.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraSO6.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraSO6.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraSO7.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraSO7.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraSO8.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraSO8.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraT1.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraT1.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraT2.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraT2.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraT3ž.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraT3ž.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraT4.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraT4.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraT6.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraT6.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraT7.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraT7.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraT8.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraT8.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraTO1.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraTO1.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraTO2.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraTO2.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraTO4.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraTO4.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraTO5.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraTO5.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraTO6.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraTO6.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraTO7.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraTO7.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\AlgebraTO8.JPG",
+      "PackagePath": "staticwebassets\\Images\\AlgebraTO8.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\Brojevi1.JPG",
+      "PackagePath": "staticwebassets\\Images\\Brojevi1.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\Brojevi10.JPG",
+      "PackagePath": "staticwebassets\\Images\\Brojevi10.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\Brojevi2.JPG",
+      "PackagePath": "staticwebassets\\Images\\Brojevi2.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\Brojevi3.JPG",
+      "PackagePath": "staticwebassets\\Images\\Brojevi3.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\Brojevi4.JPG",
+      "PackagePath": "staticwebassets\\Images\\Brojevi4.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\Brojevi5.JPG",
+      "PackagePath": "staticwebassets\\Images\\Brojevi5.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\Brojevi6.JPG",
+      "PackagePath": "staticwebassets\\Images\\Brojevi6.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\Brojevi7.JPG",
+      "PackagePath": "staticwebassets\\Images\\Brojevi7.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\Brojevi8.JPG",
+      "PackagePath": "staticwebassets\\Images\\Brojevi8.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\Brojevi9.JPG",
+      "PackagePath": "staticwebassets\\Images\\Brojevi9.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\BrojeviR1.JPG",
+      "PackagePath": "staticwebassets\\Images\\BrojeviR1.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\BrojeviR10.JPG",
+      "PackagePath": "staticwebassets\\Images\\BrojeviR10.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\BrojeviR2.JPG",
+      "PackagePath": "staticwebassets\\Images\\BrojeviR2.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\BrojeviR3.JPG",
+      "PackagePath": "staticwebassets\\Images\\BrojeviR3.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\BrojeviR4.JPG",
+      "PackagePath": "staticwebassets\\Images\\BrojeviR4.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\BrojeviR5.JPG",
+      "PackagePath": "staticwebassets\\Images\\BrojeviR5.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\BrojeviR6.JPG",
+      "PackagePath": "staticwebassets\\Images\\BrojeviR6.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\BrojeviR7.JPG",
+      "PackagePath": "staticwebassets\\Images\\BrojeviR7.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\BrojeviR8.JPG",
+      "PackagePath": "staticwebassets\\Images\\BrojeviR8.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\BrojeviR9.JPG",
+      "PackagePath": "staticwebassets\\Images\\BrojeviR9.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\Geometrija1.JPG",
+      "PackagePath": "staticwebassets\\Images\\Geometrija1.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\Geometrija10.JPG",
+      "PackagePath": "staticwebassets\\Images\\Geometrija10.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\Geometrija2.JPG",
+      "PackagePath": "staticwebassets\\Images\\Geometrija2.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\Geometrija3.JPG",
+      "PackagePath": "staticwebassets\\Images\\Geometrija3.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\Geometrija4.JPG",
+      "PackagePath": "staticwebassets\\Images\\Geometrija4.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\Geometrija5.JPG",
+      "PackagePath": "staticwebassets\\Images\\Geometrija5.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\Geometrija6.JPG",
+      "PackagePath": "staticwebassets\\Images\\Geometrija6.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\Geometrija7.JPG",
+      "PackagePath": "staticwebassets\\Images\\Geometrija7.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\Geometrija8.JPG",
+      "PackagePath": "staticwebassets\\Images\\Geometrija8.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\Geometrija9.JPG",
+      "PackagePath": "staticwebassets\\Images\\Geometrija9.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\GeometrijaR1.JPG",
+      "PackagePath": "staticwebassets\\Images\\GeometrijaR1.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\GeometrijaR10.JPG",
+      "PackagePath": "staticwebassets\\Images\\GeometrijaR10.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\GeometrijaR2.JPG",
+      "PackagePath": "staticwebassets\\Images\\GeometrijaR2.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\GeometrijaR3.JPG",
+      "PackagePath": "staticwebassets\\Images\\GeometrijaR3.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\GeometrijaR4.JPG",
+      "PackagePath": "staticwebassets\\Images\\GeometrijaR4.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\GeometrijaR5.JPG",
+      "PackagePath": "staticwebassets\\Images\\GeometrijaR5.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\GeometrijaR6.JPG",
+      "PackagePath": "staticwebassets\\Images\\GeometrijaR6.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\GeometrijaR7.JPG",
+      "PackagePath": "staticwebassets\\Images\\GeometrijaR7.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\GeometrijaR8.JPG",
+      "PackagePath": "staticwebassets\\Images\\GeometrijaR8.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\GeometrijaR9.JPG",
+      "PackagePath": "staticwebassets\\Images\\GeometrijaR9.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\IstorijaR1.JPG",
+      "PackagePath": "staticwebassets\\Images\\IstorijaR1.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\IstorijaR2.JPG",
+      "PackagePath": "staticwebassets\\Images\\IstorijaR2.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\IstorijaR7.JPG",
+      "PackagePath": "staticwebassets\\Images\\IstorijaR7.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\SrpksiR10.JPG",
+      "PackagePath": "staticwebassets\\Images\\SrpksiR10.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\biologija1.JPG",
+      "PackagePath": "staticwebassets\\Images\\biologija1.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\biologija10.JPG",
+      "PackagePath": "staticwebassets\\Images\\biologija10.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\biologija2.JPG",
+      "PackagePath": "staticwebassets\\Images\\biologija2.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\biologija3.JPG",
+      "PackagePath": "staticwebassets\\Images\\biologija3.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\biologija4.JPG",
+      "PackagePath": "staticwebassets\\Images\\biologija4.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\biologija5.JPG",
+      "PackagePath": "staticwebassets\\Images\\biologija5.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\biologija6.JPG",
+      "PackagePath": "staticwebassets\\Images\\biologija6.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\biologija7.JPG",
+      "PackagePath": "staticwebassets\\Images\\biologija7.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\biologija8.JPG",
+      "PackagePath": "staticwebassets\\Images\\biologija8.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\biologija9.JPG",
+      "PackagePath": "staticwebassets\\Images\\biologija9.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\biologijaR1.JPG",
+      "PackagePath": "staticwebassets\\Images\\biologijaR1.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\biologijaR10.JPG",
+      "PackagePath": "staticwebassets\\Images\\biologijaR10.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\biologijaR2.JPG",
+      "PackagePath": "staticwebassets\\Images\\biologijaR2.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\biologijaR3.JPG",
+      "PackagePath": "staticwebassets\\Images\\biologijaR3.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\biologijaR4.JPG",
+      "PackagePath": "staticwebassets\\Images\\biologijaR4.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\biologijaR5.JPG",
+      "PackagePath": "staticwebassets\\Images\\biologijaR5.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\biologijaR6.JPG",
+      "PackagePath": "staticwebassets\\Images\\biologijaR6.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\biologijaR7.JPG",
+      "PackagePath": "staticwebassets\\Images\\biologijaR7.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\biologijaR8.JPG",
+      "PackagePath": "staticwebassets\\Images\\biologijaR8.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\biologijaR9.JPG",
+      "PackagePath": "staticwebassets\\Images\\biologijaR9.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\geografija1.JPG",
+      "PackagePath": "staticwebassets\\Images\\geografija1.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\geografija10.JPG",
+      "PackagePath": "staticwebassets\\Images\\geografija10.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\geografija2.JPG",
+      "PackagePath": "staticwebassets\\Images\\geografija2.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\geografija3.JPG",
+      "PackagePath": "staticwebassets\\Images\\geografija3.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\geografija4.JPG",
+      "PackagePath": "staticwebassets\\Images\\geografija4.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\geografija5.JPG",
+      "PackagePath": "staticwebassets\\Images\\geografija5.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\geografija6.JPG",
+      "PackagePath": "staticwebassets\\Images\\geografija6.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\geografija7.JPG",
+      "PackagePath": "staticwebassets\\Images\\geografija7.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\geografija8.JPG",
+      "PackagePath": "staticwebassets\\Images\\geografija8.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\geografija9.JPG",
+      "PackagePath": "staticwebassets\\Images\\geografija9.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\geografijaR1.JPG",
+      "PackagePath": "staticwebassets\\Images\\geografijaR1.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\geografijaR10.JPG",
+      "PackagePath": "staticwebassets\\Images\\geografijaR10.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\geografijaR2.JPG",
+      "PackagePath": "staticwebassets\\Images\\geografijaR2.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\geografijaR3.JPG",
+      "PackagePath": "staticwebassets\\Images\\geografijaR3.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\geografijaR4.JPG",
+      "PackagePath": "staticwebassets\\Images\\geografijaR4.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\geografijaR5.JPG",
+      "PackagePath": "staticwebassets\\Images\\geografijaR5.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\geografijaR6.JPG",
+      "PackagePath": "staticwebassets\\Images\\geografijaR6.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\geografijaR7.JPG",
+      "PackagePath": "staticwebassets\\Images\\geografijaR7.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\geografijaR8.JPG",
+      "PackagePath": "staticwebassets\\Images\\geografijaR8.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\geografijaR9.JPG",
+      "PackagePath": "staticwebassets\\Images\\geografijaR9.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\hem1.JPG",
+      "PackagePath": "staticwebassets\\Images\\hem1.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\hem10.JPG",
+      "PackagePath": "staticwebassets\\Images\\hem10.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\hem2.JPG",
+      "PackagePath": "staticwebassets\\Images\\hem2.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\hem3.JPG",
+      "PackagePath": "staticwebassets\\Images\\hem3.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\hem4.JPG",
+      "PackagePath": "staticwebassets\\Images\\hem4.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\hem5.JPG",
+      "PackagePath": "staticwebassets\\Images\\hem5.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\hem6.JPG",
+      "PackagePath": "staticwebassets\\Images\\hem6.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\hem7.JPG",
+      "PackagePath": "staticwebassets\\Images\\hem7.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\hem8.JPG",
+      "PackagePath": "staticwebassets\\Images\\hem8.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\hem9.JPG",
+      "PackagePath": "staticwebassets\\Images\\hem9.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\hemR10.JPG",
+      "PackagePath": "staticwebassets\\Images\\hemR10.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\hemR2.JPG",
+      "PackagePath": "staticwebassets\\Images\\hemR2.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\hemR3.JPG",
+      "PackagePath": "staticwebassets\\Images\\hemR3.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\hemR4.JPG",
+      "PackagePath": "staticwebassets\\Images\\hemR4.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\hemR5.JPG",
+      "PackagePath": "staticwebassets\\Images\\hemR5.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\hemR6.JPG",
+      "PackagePath": "staticwebassets\\Images\\hemR6.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\hemR7.JPG",
+      "PackagePath": "staticwebassets\\Images\\hemR7.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\hemR8.JPG",
+      "PackagePath": "staticwebassets\\Images\\hemR8.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\hemR9.JPG",
+      "PackagePath": "staticwebassets\\Images\\hemR9.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\hemr1.JPG",
+      "PackagePath": "staticwebassets\\Images\\hemr1.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\info1.JPG",
+      "PackagePath": "staticwebassets\\Images\\info1.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\info10.JPG",
+      "PackagePath": "staticwebassets\\Images\\info10.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\info2.JPG",
+      "PackagePath": "staticwebassets\\Images\\info2.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\info3.JPG",
+      "PackagePath": "staticwebassets\\Images\\info3.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\info4.JPG",
+      "PackagePath": "staticwebassets\\Images\\info4.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\info5.JPG",
+      "PackagePath": "staticwebassets\\Images\\info5.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\info6.JPG",
+      "PackagePath": "staticwebassets\\Images\\info6.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\info7.JPG",
+      "PackagePath": "staticwebassets\\Images\\info7.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\info8.JPG",
+      "PackagePath": "staticwebassets\\Images\\info8.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\info9.JPG",
+      "PackagePath": "staticwebassets\\Images\\info9.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\infoR1.JPG",
+      "PackagePath": "staticwebassets\\Images\\infoR1.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\infoR10.JPG",
+      "PackagePath": "staticwebassets\\Images\\infoR10.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\infoR2.JPG",
+      "PackagePath": "staticwebassets\\Images\\infoR2.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\infoR3.JPG",
+      "PackagePath": "staticwebassets\\Images\\infoR3.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\infoR4.JPG",
+      "PackagePath": "staticwebassets\\Images\\infoR4.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\infoR5.JPG",
+      "PackagePath": "staticwebassets\\Images\\infoR5.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\infoR6.JPG",
+      "PackagePath": "staticwebassets\\Images\\infoR6.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\infoR7.JPG",
+      "PackagePath": "staticwebassets\\Images\\infoR7.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\infoR8.JPG",
+      "PackagePath": "staticwebassets\\Images\\infoR8.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\infoR9.JPG",
+      "PackagePath": "staticwebassets\\Images\\infoR9.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\istoriaj5.JPG",
+      "PackagePath": "staticwebassets\\Images\\istoriaj5.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\istorija1.JPG",
+      "PackagePath": "staticwebassets\\Images\\istorija1.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\istorija10.JPG",
+      "PackagePath": "staticwebassets\\Images\\istorija10.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\istorija2.JPG",
+      "PackagePath": "staticwebassets\\Images\\istorija2.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\istorija3.JPG",
+      "PackagePath": "staticwebassets\\Images\\istorija3.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\istorija4.JPG",
+      "PackagePath": "staticwebassets\\Images\\istorija4.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\istorija6.JPG",
+      "PackagePath": "staticwebassets\\Images\\istorija6.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\istorija7.JPG",
+      "PackagePath": "staticwebassets\\Images\\istorija7.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\istorija8.JPG",
+      "PackagePath": "staticwebassets\\Images\\istorija8.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\istorija9.JPG",
+      "PackagePath": "staticwebassets\\Images\\istorija9.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\istorijaR10.JPG",
+      "PackagePath": "staticwebassets\\Images\\istorijaR10.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\istorijaR3.JPG",
+      "PackagePath": "staticwebassets\\Images\\istorijaR3.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\istorijaR4.JPG",
+      "PackagePath": "staticwebassets\\Images\\istorijaR4.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\istorijaR5.JPG",
+      "PackagePath": "staticwebassets\\Images\\istorijaR5.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\istorijaR6.JPG",
+      "PackagePath": "staticwebassets\\Images\\istorijaR6.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\istorijaR8.JPG",
+      "PackagePath": "staticwebassets\\Images\\istorijaR8.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\istorijaR9.JPG",
+      "PackagePath": "staticwebassets\\Images\\istorijaR9.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\srpksiR5.JPG",
+      "PackagePath": "staticwebassets\\Images\\srpksiR5.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\srpski1.JPG",
+      "PackagePath": "staticwebassets\\Images\\srpski1.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\srpski10.JPG",
+      "PackagePath": "staticwebassets\\Images\\srpski10.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\srpski2.JPG",
+      "PackagePath": "staticwebassets\\Images\\srpski2.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\srpski4.JPG",
+      "PackagePath": "staticwebassets\\Images\\srpski4.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\srpski5.JPG",
+      "PackagePath": "staticwebassets\\Images\\srpski5.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\srpski6.JPG",
+      "PackagePath": "staticwebassets\\Images\\srpski6.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\srpski7.JPG",
+      "PackagePath": "staticwebassets\\Images\\srpski7.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\srpski8.JPG",
+      "PackagePath": "staticwebassets\\Images\\srpski8.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\srpski9.JPG",
+      "PackagePath": "staticwebassets\\Images\\srpski9.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\srpskiR1.JPG",
+      "PackagePath": "staticwebassets\\Images\\srpskiR1.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\srpskiR2.JPG",
+      "PackagePath": "staticwebassets\\Images\\srpskiR2.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\srpskiR4.JPG",
+      "PackagePath": "staticwebassets\\Images\\srpskiR4.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\srpskiR6.JPG",
+      "PackagePath": "staticwebassets\\Images\\srpskiR6.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\srpskiR7.JPG",
+      "PackagePath": "staticwebassets\\Images\\srpskiR7.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\srpskiR8.JPG",
+      "PackagePath": "staticwebassets\\Images\\srpskiR8.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\Images\\srpskiR9.JPG",
+      "PackagePath": "staticwebassets\\Images\\srpskiR9.JPG"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Softverski_inzenjering_pravi\\Ceo_projekat\\eUcionica\\eUcionica\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.eUcionica.props",
+      "PackagePath": "build\\eUcionica.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.eUcionica.props",
+      "PackagePath": "buildMultiTargeting\\eUcionica.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.eUcionica.props",
+      "PackagePath": "buildTransitive\\eUcionica.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.eUcionica.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

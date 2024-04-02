@@ -1,0 +1,43 @@
+﻿@page
+@model eUcionica.Pages.StranicaPitanja.DetaljiPitanjaModel
+
+@{
+    ViewData["Title"] = "Detalji pitanja";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<div style="background-color: #f2f2f2; padding: 20px; width: 600px; margin: 0 auto; padding-left:150px;">
+    <h3>Detalji pitanja  <a href="@Url.Page("SpisakPitanja")" class="text-black">&#8592;</a></h3>
+    <hr>
+
+    <div>
+        <h6 style="display: inline;">Naziv predmeta: </h6>
+        <span>@(Model.Pitanje?.Predmet?.NazivPredmeta ?? "N/A")</span>
+    </div>
+
+    <div>
+        <h6 style="display: inline;">Naziv oblasti: </h6>
+        <span>@(Model.Pitanje?.Oblast?.Name ?? "N/A")</span>
+    </div>
+
+    <div>
+        <h6 style="display: inline;">Nivo težine: </h6>
+        <span>@(Model.Pitanje?.NivoTezine ?? "N/A")</span>
+    </div>
+
+    <h6>Pitanje slika:</h6>
+    <div>
+        <img src="~/images/@(Model.Pitanje?.PitanjeSlika ?? "default.jpg")" style="width: 350px; height: 60px" />
+    </div>
+
+    <h6>Odgovor slika:</h6>
+    <div>
+        <img src="~/images/@(Model.Pitanje?.OdgovorSlika ?? "default.jpg")" style="width: 350px; height: 60px" />
+    </div>
+    <div>
+        <h6 style="display: inline;">Odgovor Tekst: </h6>
+        <span>@(Model.Pitanje?.OdgovorTekst ?? "N/A")</span>
+    </div>
+
+
+</div>

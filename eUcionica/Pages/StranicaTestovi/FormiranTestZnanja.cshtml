@@ -1,0 +1,127 @@
+﻿@page "{SelectedQuestions?}"
+@model eUcionica.Pages.StranicaTestovi.FormiranTestZnanjaModel
+@{
+    ViewData["Title"] = "Generisan test znanja";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<div class="container-fluid" style="width:750px">
+    <div class="row justify-content-center">
+        <div class="col-md-10">
+            <div class="card mt-4">
+                <div class="card-body">
+                    <h3 class="card-title text-center">Vaš test je spreman, srećno!</h3>
+                    <form method="post" enctype="multipart/form-data">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div id="div2">
+                            @if (Model.SelectedQuestions != null && Model.SelectedQuestions.Any())
+                            {
+                                <ul class="list-group">
+                                    @foreach (var question in Model.SelectedQuestions)
+                                    {
+                                        <li class="list-group-item">
+                                            <h5>@(Model.SelectedQuestions.IndexOf(question) + 1). Pitanje:</h5>
+                                            @if (question.PitanjeSlika != null)
+                                            {
+                                                <img src="~/Images/@question.PitanjeSlika" alt="Question @(Model.SelectedQuestions.IndexOf(question) + 1)" class="img-fluid mb-2" style="width:600px" />
+                                            }
+                                            <p>Unesi odgovor:</p>
+                                            <input style="width:100%" type="text" id="answer_@(Model.SelectedQuestions.IndexOf(question))" name="answers" class="form-control" />
+                                            <input type="hidden" name="CorrectAnswers[@(Model.SelectedQuestions.IndexOf(question))]" value='@question.OdgovorTekst' />
+                                        </li>
+                                    }
+                                </ul>
+                            }
+                            else
+                            {
+                                <p>Nema dostupnih pitanja.</p>
+                            }
+                        </div>
+                        <div class="text-center">
+                            <button type="button" class="btn btn-primary mt-3" onclick="endTest()">Završi test</button>
+                            <button type="button" id="generateNewTestBtn" class="btn btn-secondary mt-3" onclick="generateNewTest()">Generiši novi test</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row justify-content-center mt-4">
+        <div class="col-md-10">
+            <div class="card">
+                <div class="card-body">
+                    <div id="scoreDiv" style="display:none;">
+                        <h4>Rezultat testa:</h4>
+                        <h6 id="scoreText"></h6>
+                        <h4 class="text-center">Resenja testa:</h4>
+                        <ul id="correctAnswersList" class="list-group">
+                            @if (Model.SelectedQuestions != null && Model.SelectedQuestions.Any())
+                            {
+                                @foreach (var question in Model.SelectedQuestions)
+                                {
+                                    <li class="list-group-item">
+                                        <h5>@(Model.SelectedQuestions.IndexOf(question) + 1). Pitanje_odgovor:</h5>
+                                        @if (question.OdgovorSlika != null)
+                                        {
+                                            <img src="~/Images/@question.OdgovorSlika" alt="Answer @(Model.SelectedQuestions.IndexOf(question) + 1)" class="img-fluid mb-2" style="width:600px" />
+                                        }
+
+                                        @if (question.OdgovorTekst != null)
+                                        {
+                                            <p>Proveravani odgovor: @question.OdgovorTekst</p>
+                                        }
+                                    </li>
+                                }
+                            }
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        var correctAnswersArray = Json.Serialize(Model.SelectedQuestions?.Select(q => q.OdgovorTekst).ToArray() ?? Array.Empty<string>());
+    }
+
+    <script>
+        var correctAnswers = JSON.parse('@Html.Raw(correctAnswersArray)');
+        var selectedQuestionsCount = @Model.SelectedQuestions?.Count ?? 0;
+
+        function endTest() {
+            var tacno = 0;
+            var pogresno = 0;
+
+            for (var i = 0; i < selectedQuestionsCount; i++) {
+                var answer = document.getElementById(`answer_${i}`).value;
+
+                if (answer === '') {
+                    pogresno = 1;
+                }
+
+                var correctAnswer = correctAnswers[i];
+
+                if (answer.toLowerCase() == correctAnswer.toLowerCase()) {
+                    tacno++;
+                }
+            }
+
+            if (pogresno != 1) {
+                var totalQuestions = selectedQuestionsCount;
+                var scoreText = `Broj tačnih odgovora je ${tacno}`;
+                document.getElementById('scoreText').innerHTML = scoreText;
+                document.getElementById('scoreDiv').style.display = 'block';
+            } else {
+                alert('Popunite svako polje!');
+            }
+        }
+
+        function generateNewTest() {
+            window.location.href = '/StranicaTestovi/GenerisanjeNovogTesta';
+        }
+    </script>
+}

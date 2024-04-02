@@ -1,0 +1,61 @@
+﻿@page
+@model eUcionica.Pages.StranicaPitanja.MenjanjePredmetaModel
+
+@{
+    ViewData["Title"] = "Izmena pitanja";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<div class="container border rounded p-3" style="background-color: #f2f2f2; width: 700px;">
+    <h3>Izmena pitanja</h3>
+
+    <form method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label asp-for="Pitanje.PredmetID" class="control-label">Izaberite novi predmet</label>
+            <select asp-for="NoviPredmetID" class="form-control">
+                <option value="">Izaberite predmet</option>
+                @foreach (var predmet in Model.Predmeti)
+                {
+                    <option value="@predmet.ID">@predmet.NazivPredmeta</option>
+                }
+            </select>
+            <span asp-validation-for="NoviPredmetID" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Pitanje.OblastID" class="control-label">Izaberite novu oblast</label>
+            <select asp-for="NovaOblastID" class="form-control">
+                <option value="">Izaberite oblast</option>
+                @foreach (var oblast in Model.Oblasti)
+                {
+                    <option value="@oblast.ID">@oblast.Name</option>
+                }
+            </select>
+            <span asp-validation-for="NovaOblastID" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Pitanje.NivoTezine" class="control-label">Nivo težine</label>
+            <input asp-for="Pitanje.NivoTezine" class="form-control" />
+            <span asp-validation-for="Pitanje.NivoTezine" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="NovaSlikaPitanja" class="control-label">Izaberite novu sliku za pitanje</label>
+            <input asp-for="NovaSlikaPitanja" type="file" class="form-control" />
+            <span asp-validation-for="NovaSlikaPitanja" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="NovaSlikaOdgovora" class="control-label">Izaberite novu sliku za odgovor</label>
+            <input asp-for="NovaSlikaOdgovora" type="file" class="form-control" />
+            <span asp-validation-for="NovaSlikaOdgovora" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Pitanje.OdgovorTekst" class="control-label">Odgovor tekst</label>
+            <input asp-for="Pitanje.OdgovorTekst" class="form-control" />
+            <span asp-validation-for="Pitanje.OdgovorTekst" class="text-danger"></span>
+        </div>
+        <input type="hidden" asp-for="Pitanje.ID" />
+        <div class="form-group mt-3">
+            <button type="submit" class="btn btn-primary">Sačuvaj promene</button>
+            <a asp-page="./SpisakPitanja" class="btn btn-secondary ml-2">Odustani</a>
+        </div>
+    </form>
+</div>

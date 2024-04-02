@@ -1,0 +1,29 @@
+﻿@page
+@model eUcionica.Pages.StranicaPredmeti.MenjanjePredmetaModel 
+
+@{
+    ViewData["Title"] = "Menjanje predmeta";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <div class="card p-4 border-info" style="max-width: 700px; margin: 0 auto; background-color: #f8f9fa;">
+        <h3 class="mb-4">Izmena predmeta</h3>
+        <hr class="mb-4">
+
+        <form method="post">
+            <input type="hidden" asp-for="Predmet.ID" />
+
+            <div class="form-group mb-3">
+                <label asp-for="Predmet.NazivPredmeta" class="control-label col-form-label">Naziv predmeta</label>
+                <input asp-for="Predmet.NazivPredmeta" class="form-control" />
+                <span asp-validation-for="Predmet.NazivPredmeta" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <button type="submit" class="btn btn-danger">Sačuvaj promene</button>
+                <a asp-page="./SpisakPredmeta" class="btn btn-secondary">Otkaži</a>
+            </div>
+        </form>
+    </div>
+</div>

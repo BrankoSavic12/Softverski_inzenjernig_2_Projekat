@@ -1,0 +1,35 @@
+﻿@page
+@model eUcionica.Pages.StranicaOblasti.MenjanjeOblastiModel
+
+@{
+    ViewData["Title"] = "Izmena oblasti";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<div class="container border rounded p-3" style="background-color: #f2f2f2; width: 700px;">
+    <h3>Izmena oblasti</h3>
+
+    <form method="post">
+        <div class="form-group">
+            <label asp-for="Oblast.Name" class="control-label">Ime oblasti</label>
+            <input asp-for="Oblast.Name" class="form-control" />
+            <span asp-validation-for="Oblast.Name" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="NoviPredmetID" class="control-label">Izaberite novi predmet</label>
+            <select asp-for="NoviPredmetID" class="form-control">
+                <option value="">Izaberite predmet</option>
+                @foreach (var predmet in Model.Predmeti)
+                {
+                    <option value="@predmet.ID">@predmet.NazivPredmeta</option>
+                }
+            </select>
+            <span asp-validation-for="NoviPredmetID" class="text-danger"></span>
+        </div>
+        <input type="hidden" asp-for="Oblast.ID" />
+        <div class="form-group mt-3">
+            <button type="submit" class="btn btn-primary">Sačuvaj promene</button>
+            <a asp-page="./SpisakOblasti" class="btn btn-secondary ml-2">Odustani</a>
+        </div>
+    </form>
+</div>

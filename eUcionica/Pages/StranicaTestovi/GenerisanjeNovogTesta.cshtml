@@ -1,0 +1,71 @@
+﻿@page
+@model eUcionica.Pages.StranicaTestovi.GenerisanjeNovogTestaModel
+@{
+    ViewData["Title"] = "Generisanje testa";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<div class="container" style="background-color: #F2F2F2; padding: 20px; border: 2px solid #CCCCCC; border-radius: 10px; width:700px">
+    <h2 style="text-align: center;">Zdravo, proverite svoje znanje</h2>
+    <div class="row justify-content-md-center">
+        <div class="col-md-8">
+            <form method="post" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div id="div1">
+                    <div>
+                        <label id="predmet_lab" for="PredmetID">Izaberite predmet:</label>
+                        <select id="PredmetID" asp-items="Model.PredmetOptions" class="form-control" name="SelectedPredmetID"></select>
+                    </div>
+
+                    <div>
+                        <label id="oblast_lab" for="OblastID">Izaberite oblast:</label>
+                        <select id="OblastID" asp-items="Model.OblastOptionsWithAll" class="form-control" name="SelectedOblastID"></select>
+                    </div>
+
+                    <div>
+                        <label id="nivo_tezine_lab" for="NivoTezine">Izaberite nivo težine:</label>
+                        <select id="NivoTezine" class="form-control" name="SelectedNivoTezine">
+                            @foreach (var item in Model.NivoTezineOptions)
+                            {
+                                <option value="@item.Value">@item.Text</option>
+                            }
+                        </select>
+                    </div>
+                    <br>
+                    <div style="text-align: center;">
+                        <button type="submit" class="btn btn-primary">Generisanje novog testa</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+        document.getElementById("PredmetID").addEventListener("change", function () {
+            var selectedPredmetID = this.value;
+            fetch(`/StranicaTestovi/GenerisanjeNovogTesta?handler=Oblasts&predmetID=${selectedPredmetID}`)
+                .then(response => response.json())
+                .then(data => {
+                    var oblastDropdown = document.getElementById("OblastID");
+                    oblastDropdown.innerHTML = "";
+                    var allOption = document.createElement("option");
+                    allOption.value = "";
+                    allOption.text = "Sve oblasti";
+                    oblastDropdown.appendChild(allOption);
+                    data.forEach(oblast => {
+                        var option = document.createElement("option");
+                        option.value = oblast.id;
+                        option.text = oblast.name;
+                        oblastDropdown.appendChild(option);
+                    });
+                })
+                .catch(error => console.error("Error fetching data:", error));
+        });
+    </script>
+}

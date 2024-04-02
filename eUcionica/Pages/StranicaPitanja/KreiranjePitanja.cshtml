@@ -1,0 +1,94 @@
+﻿@page
+@model eUcionica.Pages.StranicaPitanja.KreiranjePitanjaModel
+
+@{
+    ViewData["Title"] = "Kreiranje novog pitanja";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<div class="container border rounded p-3" style="background-color: #f2f2f2; width: 700px;">
+    <h3>Kreiranje novog pitanja</h3>
+
+    <form method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label asp-for="NovoPitanje.PredmetID" class="control-label">Izaberite predmet</label>
+            <select id="NoviPredmetID" asp-for="NoviPredmetID" class="form-control">
+                <option value="">Izaberite predmet</option>
+                @if (Model != null && Model.Predmeti != null)
+                {
+                    foreach (var predmet in Model.Predmeti)
+                    {
+                        if (predmet != null)
+                        {
+                            <option value="@predmet.ID">@predmet.NazivPredmeta</option>
+                        }
+                    }
+                }
+            </select>
+            <span asp-validation-for="NoviPredmetID" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="NovoPitanje.OblastID" class="control-label">Izaberite oblast</label>
+            <select id="NovaOblastID" asp-for="NovaOblastID" class="form-control">
+                <option value="">Izaberite oblast</option>
+            </select>
+            <span asp-validation-for="NovaOblastID" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="NovoPitanje.NivoTezine" class="control-label">Nivo težine</label>
+            <input asp-for="NovoPitanje.NivoTezine" class="form-control" />
+            <span asp-validation-for="NovoPitanje.NivoTezine" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="NovaSlikaPitanja" class="control-label">Izaberite sliku za pitanje</label>
+            <input asp-for="NovaSlikaPitanja" type="file" class="form-control" />
+            <span asp-validation-for="NovaSlikaPitanja" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="NovaSlikaOdgovora" class="control-label">Izaberite sliku za odgovor</label>
+            <input asp-for="NovaSlikaOdgovora" type="file" class="form-control" />
+            <span asp-validation-for="NovaSlikaOdgovora" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="NovoPitanje.OdgovorTekst" class="control-label">Odgovor tekst</label>
+            <input asp-for="NovoPitanje.OdgovorTekst" class="form-control" />
+            <span asp-validation-for="NovoPitanje.OdgovorTekst" class="text-danger"></span>
+        </div>
+        <div class="form-group mt-3">
+            <button type="submit" class="btn btn-primary">Sačuvaj pitanje</button>
+            <a asp-page="./SpisakPitanja" class="btn btn-secondary ml-2">Odustani</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $('#NoviPredmetID').change(function () {
+                var predmetId = $(this).val();
+                if (predmetId) {
+                    $.ajax({
+                        url: '/StranicaPitanja/KreiranjePitanja?handler=OblastiByPredmet&predmetId=' + predmetId,
+                        type: 'GET',
+                        success: function (data) {
+                            if (data != null) {
+                                $('#NovaOblastID').empty();
+                                $.each(data, function (index, oblast) {
+                                    if (oblast != null) {
+                                        $('#NovaOblastID').append($('<option>', {
+                                            value: oblast.id,
+                                            text: oblast.name
+                                        }));
+                                    }
+                                });
+                            }
+                        }
+                    });
+                } else {
+                    $('#NovaOblastID').empty();
+                }
+            });
+        });
+    </script>
+}

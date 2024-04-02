@@ -1,0 +1,37 @@
+﻿@page
+@model eUcionica.Pages.StranicaPredmeti.BrisanjePredmetaModel
+
+@{
+    ViewData["Title"] = "Brisanje predmeta";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <div class="card p-4 border-danger" style="max-width: 800px; margin: 0 auto; background-color: #f8f9fa;">
+        <h3 class="mb-4 text-danger">Brisanje predmeta</h3>
+        <hr />
+        <div class="bg-light p-3 mb-4">
+            <dl class="row">
+                <dt class="col-sm-4">
+                     Naziv predmeta:
+                </dt>
+                <dd class="col-sm-4">
+                    @Html.DisplayFor(model => model.Predmet.NazivPredmeta)
+                </dd>
+            </dl>
+
+            <form method="post">
+                <input type="hidden" asp-for="Predmet.ID" />
+
+                <div class="form-group">
+                    <h6>Da li ste sigurni da želite da obrišete predmet <strong>@Model.Predmet.NazivPredmeta</strong>?</h6>
+                </div>
+
+                <div class="form-group">
+                    <button type="submit" class="btn btn-danger"><i class="fas fa-trash-alt"></i> Obriši predmet</button>
+                    <a asp-page="./SpisakPredmeta" class="btn btn-secondary"><i class="fas fa-times"></i> Obustavi brisanje</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

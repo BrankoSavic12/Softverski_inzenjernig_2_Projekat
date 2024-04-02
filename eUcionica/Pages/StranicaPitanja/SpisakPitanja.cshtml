@@ -1,0 +1,74 @@
+﻿@page
+@model eUcionica.Pages.StranicaPitanja.SpisakPitanjaModel
+
+@{
+    ViewData["Title"] = "Spisak pitanja";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h2>Spisak svih pitanja</h2>
+
+<div class="mb-3 d-flex justify-content-between">
+    <form method="post" class="form-inline">
+        <div class="input-group">
+            <input type="text" class="form-control" asp-for="SearchText" placeholder="Pretraži">
+            <div class="input-group-append">
+                <button type="submit" class="btn btn-primary">Pretraži</button>
+            </div>
+        </div>
+    </form>
+    <div class="btn-group ml-1">
+        <a asp-page="KreiranjePitanja" class="btn btn-primary" style="margin-right:850px">Dodavanje pitanja</a>
+    </div>
+</div>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                <a href="?sort=oblast">Oblast</a>
+            </th>
+            <th>
+                <a href="?sort=predmet">Predmet</a>
+            </th>
+            <th>
+                <a href="?sort=tezina">Težina</a>
+            </th>
+            <th style="padding-left:90px">Pitanja</th>
+            <th class="text-center">Upravljanje predmetom</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Pitanje != null)
+        {
+            foreach (var item in Model.Pitanje)
+            {
+                <tr>
+                    <td class="align-middle">@((item.Oblast != null) ? item.Oblast.Name : "")</td>
+
+                    <td class="align-middle">@((item.Predmet != null) ? item.Predmet.NazivPredmeta : "")</td>
+
+                    <td class="align-middle">@Html.DisplayFor(modelItem => item.NivoTezine)</td>
+                    <td class="align-middle text-center">
+                        @if (!string.IsNullOrEmpty(item.PitanjeSlika))
+                        {
+                            <img src="~/images/@item.PitanjeSlika" style="max-width: 350px; max-height: 200px;" />
+                        }
+                    </td>
+                    <td class="align-middle text-center">
+                        <a asp-page="./MenjanjePitanja" asp-route-id="@item.ID" class="btn btn-primary mr-1">Izmeni</a>
+                        <a asp-page="./BrisanjePitanja" asp-route-id="@item.ID" class="btn btn-danger mr-1">Obriši</a>
+                        <a asp-page="./DetaljiPitanja" asp-route-id="@item.ID" class="btn btn-info">Detalji</a>
+                    </td>
+                </tr>
+            }
+        }
+
+    </tbody>
+</table>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
